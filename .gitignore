@@ -1,0 +1,4 @@
+# Ignore database file
+expenses.db
+__pycache__/
+*.pyc
